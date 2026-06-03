@@ -310,17 +310,6 @@ LFS 2023 data is available from Bangladesh Bureau of Statistics:
 - **Website:** https://bbs.gov.bd/
 - **Access:** May require formal request to BBS
 
-## Problem-Solving Showcase
-
-This merge demonstrates several advanced data management skills:
-
-1. **Complex Data Structures:** Handling quarterly data with different person ID variables
-2. **Efficient Stacking:** Combining 16 files (4 modules × 4 quarters) systematically
-3. **ID Construction:** Creating unique person identifiers across inconsistent variable names
-4. **Validation:** Comparing results with published statistics
-5. **Documentation:** Clear explanation of merge strategy
-
-**Perfect for predoc/PhD applications** - shows you can handle complex longitudinal survey data.
 
 ## Troubleshooting
 
